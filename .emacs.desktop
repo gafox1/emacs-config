@@ -1,0 +1,79 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Thu Mar 12 02:00:39 2020
+;; Desktop file format version 208
+;; Emacs version 26.3
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24169 60455 164588 0) (desktop . "208") "gafox@DESKTOP-H1I75JG" nil nil ((((minibuffer . t) (undecorated) (skip-taskbar) (font-backend uniscribe gdi) (font . "-outline-Courier New-bold-normal-normal-mono-33-*-*-*-c-*-iso8859-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#2E3436") (background-color . "#EDEDED") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-focus-on-map) (no-accept-focus) (no-special-glyphs) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 1) (height . 49) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 30) (scroll-bar-height . 0) (fullscreen . maximized) (z-group) (visibility . t) (display-type . color) (background-mode . light) (cursor-color . "#00BBFF") (environment) (frameset--id . "1ED3-56BE-2726-E52E") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (width . 147) (left + -12) (top + -12)) ((min-height . 8) (min-width . 10) (min-height-ignore . 4) (min-width-ignore . 5) (min-height-safe . 2) (min-width-safe . 2) (min-pixel-height . 296) (min-pixel-width . 200) (min-pixel-height-ignore . 148) (min-pixel-width-ignore . 100) (min-pixel-height-safe . 74) (min-pixel-width-safe . 40)) vc (pixel-width . 3000) (pixel-height . 1801) (total-width . 150) (total-height . 49) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 3000) (pixel-height . 876) (total-width . 150) (total-height . 24) (normal-height . 0.4860896445131375) (normal-width . 1.0) (buffer "Leymus-new-woven.tex" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 18206) (start . 17563))) (leaf (last . t) (pixel-width . 3000) (pixel-height . 925) (total-width . 150) (total-height . 25) (normal-height . 0.5139103554868625) (normal-width . 1.0) (buffer "Leymus-new.Rnw" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 2 t nil 0 t) (vscroll . 0) (dedicated) (point . 5769) (start . 5333)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("gendatne" "The number of polymorphic" "The means and standard" "The means" "pseudo" "pseudo-data" "The means and standard" "gendat$Patch" "tidy" "knitr"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("c:/Users/gafox/Projects/Leymus/Leymus-new.Rnw" "c:/Users/gafox/Projects/Leymus/Guo et al-Leymus chinensis5March2020-gf.docx" "c:/Users/gafox/Projects/Leymus/Leymus-new.Rnw" "c:/Users/gafox/Projects/Leymus/Leymus-new-woven.pdf" "c:/Users/gafox/Projects/Leymus/Nmarkers.Rnw" "c:/Users/gafox/Projects/Leymus/Leymus-new.Rnw" "~/Projects/Leymus/Nmarkers.Rnw" "c:/Users/gafox/Projects/Leymus/Leymus-new-woven.tex" "~/Projects/Leymus/Leymus-new.Rnw" "c:/Users/gafox/" "~/Projects/Leymus/Leymus-new.Rnw"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "c:/Users/gafox/Projects/Leymus/Leymus-new.Rnw"
+  "Leymus-new.Rnw"
+  'latex-mode
+  '(auto-fill-mode TeX-PDF-mode poly-noweb+r-mode reftex-mode)
+  5769
+  '(6012 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 24169 50069 485629 0) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring (6121 5769))))
+
+(desktop-create-buffer 208
+  "c:/Users/gafox/Projects/Leymus/Leymus-new-woven.tex"
+  "Leymus-new-woven.tex"
+  'latex-mode
+  '(auto-fill-mode TeX-PDF-mode reftex-mode)
+  18206
+  '(341 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-display-time 24169 50078 520657 0) (buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (291 333 450 354 450 450 450 450 450))))
+
+(desktop-create-buffer 208
+  "c:/Users/gafox/Projects/Leymus/Nmarkers.Rnw"
+  " Nmarkers.Rnw"
+  'latex-mode
+  '(auto-fill-mode TeX-PDF-mode poly-noweb+r-mode reftex-mode)
+  13092
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time 24165 25555 848851 0) (buffer-file-coding-system . undecided-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/gafox/Projects/Leymus/Leymus-new.Rnw"
+  "Leymus-new.Rnw"
+  'ess-mode
+  '(eldoc-mode flymake-mode TeX-PDF-mode poly-noweb+r-mode)
+  5769
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-display-time) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/gafox/Projects/Leymus/Leymus-new.Rnw"
+  "Leymus-new.Rnw"
+  'poly-head-tail-mode
+  '(TeX-PDF-mode poly-noweb+r-mode)
+  5769
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (buffer-display-time) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (truncate-lines))
+  '((mark-ring nil)))
+
